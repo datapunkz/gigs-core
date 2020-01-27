@@ -1,0 +1,25 @@
+{
+  "data":[
+    {
+      "ownerid":"xxxxxxxxxxxxx",
+      "talkid":"33333333333333",
+      "title":"CI/CD 101",
+      "abstract":"An introduction into CI/CD for beginners",
+      "description":"Simple CI/CD Workshop using CircleCI",
+      "publishdate":"12/11/2018",
+      "authors":[
+        {
+          "userid":"1111111111",
+          "firstname":"Angel",
+          "lastname":"Rivera"
+        }
+      ],
+      "resources":[
+        {
+          "media":"Proposed values:  slides, video, audio, pdf, photo",
+          "url":"If applicable"
+        }
+      ]
+    }
+  ]
+}
