@@ -1,0 +1,25 @@
+{
+  "data":[
+    {
+      "ownerid":"xxxxxxxxxxxxxx",
+      "userid":"11111111111111",
+      "email":"angel@gmail.com",
+      "first_name":"Angel",
+      "last_name":"Rivera",
+      "accounts":[
+        {
+          "provider":"twitter",
+          "username":"punkdata",
+          "userid":"xzxzxzxxzxxzx",
+          "profile_url":"twitter.com/punkdata"
+        },
+        {
+          "provider":"facebook",
+          "username":"punkdata",
+          "userid":"5555555xxxxxx22222",
+          "profile_url":"facebook.com/punkdata"
+        }
+      ]
+    }
+  ]
+}
